@@ -1,2 +1,3 @@
-# rel-mpago
-jogo
+# pixels
+
+pintar
